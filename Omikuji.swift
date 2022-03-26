@@ -1,6 +1,6 @@
 import Foundation
 // Run:OnlineSwiftPlayground
-// おみくじコード
+// おみくじコード_
 
 // ランダム関数
 func makeRand() -> Int {
